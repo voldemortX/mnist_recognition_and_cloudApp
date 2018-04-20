@@ -1,0 +1,10 @@
+version:
+python 3.x
+
+libs:
+numpy&scipy
+keras&tensorflow
+matplotlib
+socket
+base64
+random

@@ -1,0 +1,6 @@
+version:
+python 3.x
+
+libs:
+socket
+base64
